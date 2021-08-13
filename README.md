@@ -15,11 +15,11 @@
 Everytime I write a "hello world" program in a new programming language I can feel the power in my hands.
 
 ```CPP
-cout << "Hola Mundo" << endl;
+cout << "Hello World" << endl;
 ```
 
 ```JAVA
-String hello = "Hola Mundo";
+String hello = "Hello World";
 System.out.println(hello);
 ```
 
