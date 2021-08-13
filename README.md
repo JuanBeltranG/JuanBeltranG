@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there, I'm Juan 
 
-<!--
-**JuanBeltranG/JuanBeltranG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a software engineering student passionate about technology.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📚 I am currently pursuing a degree in Computer Systems Engineering.
+* 💻 Currently studying and honing my skills in web development using the MEAN stack
+* 📱 Also I know a little about cross platform apps development using Flutter and Dart
+* 💡 I like competitive programming and everything related to algorithms, I'm not very good at it but I still like it.
+
+
+
+<br/>
+Everytime I write a "hello world" program in a new programming language I can feel the power in my hands.
+
+```CPP
+cout << "Hola Mundo" << endl;
+```
+
+```JAVA
+String hello = "Hola Mundo";
+System.out.println(hello);
+```
+
