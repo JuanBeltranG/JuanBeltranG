@@ -12,7 +12,7 @@
 
 
 <br/>
-Everytime I write a "hello world" program in a new programming language I can feel the power in my hands.
+Everytime I code a "hello world" program in a new programming language I can feel the power in my hands.
 
 ```CPP
 cout << "Hello World" << endl;
